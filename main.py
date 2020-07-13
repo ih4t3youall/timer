@@ -4,7 +4,7 @@ import time
 
 
 if len(sys.argv) < 2:
-    print('you need to pass as parameter an integer, will be the amount of minutes.')
+    print('you need to pass as a parameter an integer, will be the amount of minutes.')
     exit()
 
 try:
